@@ -22,9 +22,9 @@ pip install -r requirements.txt
 To deploy the backdoor Trojan, run:
 ```bash
 python backdoor.py
-To start the listener, run:
 ```
 
+To start the listener, run:
 ```bash
 python listener.py
 ```
